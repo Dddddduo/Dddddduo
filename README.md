@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and AI. Here's a little bit about me and what I'm currently working on!
 
-![](https://github-readme-stats.vercel.app/api?username=你的Github用户名e&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的Github用户名&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=DduoZDY1204&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DduoZDY1204&layout=compact&theme=tokyonight)
 
 
 ## 🔭 I’m currently working on:
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and AI. H
 - Exploring new frameworks like TensorFlow and PyTorch for deep learning applications.
 - Improving my understanding of cloud computing and distributed systems.
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=你的Github用户名&theme=dracula)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=DduoZDY1204&theme=dracula)
 
 ## ⚡ Fun fact:
 - I love solving complex puzzles and exploring new logic problems.
