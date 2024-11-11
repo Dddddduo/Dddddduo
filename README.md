@@ -10,14 +10,4 @@ I am a full stack development engineer from China, I have wanted to be a program
 ![](https://github-readme-stats.vercel.app/api?username=DduoZDY1204&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DduoZDY1204&layout=compact&theme=tokyonight)
 
-## 🌱 I’m currently learning:
-- Advanced machine learning algorithms and neural networks.
-- Exploring new frameworks like TensorFlow and PyTorch for deep learning applications.
-- Improving my understanding of cloud computing and distributed systems.
-
-## ⚡ Fun fact:
-- I love solving complex puzzles and exploring new logic problems.
-- Outside of coding, I enjoy hiking and photography.
-- Currently learning to play the piano in my free time!
-
 Thanks for stopping by! Feel free to check out my repositories, and let’s connect if you share similar interests.
