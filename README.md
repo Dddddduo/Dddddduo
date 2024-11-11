@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dduo!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=F7B4DB&center=true&vCenter=true&width=435&lines=Dduo-coding.github.io)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=2000&pause=1000&color=F7B4DB&width=435&lines=Dduo-coding.github.io)](https://git.io/typing-svg)
 
 Welcome to my coding world! I'm passionate about technology, coding, and AI. Here's a little bit about me and what I'm currently working on!
 
