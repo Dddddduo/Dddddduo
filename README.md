@@ -4,9 +4,9 @@
 ![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
 
 Welcome to my coding world! I'm passionate about technology, coding, and AI. Here's a little bit about me and what I'm currently working on!
+
 I am a full stack development engineer from China, I have wanted to be a programmer since I was a child, and I have been working hard to become one.
 
 ![](https://github-readme-stats.vercel.app/api?username=DduoZDY1204&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DduoZDY1204&layout=compact&theme=tokyonight)
 
-Thanks for stopping by! Feel free to check out my repositories, and let’s connect if you share similar interests.
