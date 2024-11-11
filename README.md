@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Dduo!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=F7B4DB&center=true&vCenter=true&width=435&lines=Dduo-coding.github.io)](https://git.io/typing-svg)
+
 Welcome to my coding world! I'm passionate about technology, coding, and AI. Here's a little bit about me and what I'm currently working on!
 
 ![](https://github-readme-stats.vercel.app/api?username=DduoZDY1204&show_icons=true&theme=transparent)
@@ -15,8 +17,6 @@ Welcome to my coding world! I'm passionate about technology, coding, and AI. Her
 - Advanced machine learning algorithms and neural networks.
 - Exploring new frameworks like TensorFlow and PyTorch for deep learning applications.
 - Improving my understanding of cloud computing and distributed systems.
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=DduoZDY1204&theme=dracula)
 
 ## ⚡ Fun fact:
 - I love solving complex puzzles and exploring new logic problems.
