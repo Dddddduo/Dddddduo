@@ -18,6 +18,6 @@ I am a full stack development engineer from China, I have wanted to be a program
 - Outside of coding, I enjoy hiking and photography.
 - Currently learning to play the piano in my free time!
 
-- [![Ashutosh's github activity graph](https://github-readme-activity-graph-DduoZDY1204.vercel.app/graph?username=fjqz177&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-DduoZDY1204.vercel.app/graph?username=fjqz177&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Thanks for stopping by! Feel free to check out my repositories, and let’s connect if you share similar interests.
