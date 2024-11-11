@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dduo!
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and AI. Here's a little bit about me and what I'm currently working on!
+Welcome to my coding world! I'm passionate about technology, coding, and AI. Here's a little bit about me and what I'm currently working on!
 
 ![](https://github-readme-stats.vercel.app/api?username=DduoZDY1204&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DduoZDY1204&layout=compact&theme=tokyonight)
