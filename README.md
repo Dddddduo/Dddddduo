@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DduoZDY1204" />
-    <img  src="https://github-profile-trophy.vercel.app/?username=DduoZDY1204" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Dddddduo" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=Dddddduo" />
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=DduoZDY1204&show_icons=true&theme=transparent)
