@@ -7,6 +7,11 @@ I am a full stack development engineer from China, I have wanted to be a program
 
 Nice to meet you. Can we be friends? Haha
 
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DduoZDY1204" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=DduoZDY1204" />
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=DduoZDY1204&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DduoZDY1204&layout=compact&theme=tokyonight)
 
