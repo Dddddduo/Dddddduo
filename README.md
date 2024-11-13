@@ -8,6 +8,7 @@
     <img  src="https://github-profile-trophy.vercel.app/?username=Dddddduo" />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=DduoZDY1204&show_icons=true&theme=transparent)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DduoZDY1204&layout=compact&theme=tokyonight)
 
