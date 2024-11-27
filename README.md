@@ -4,7 +4,7 @@
 ![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ddddddo" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Dddddduo" />
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=Dddddduo&show_icons=true&theme=transparent)
