@@ -1,8 +1,8 @@
-# 👋 Hi bro , I'm Dduo , a programmer from China !
+# 👋 Hi bro , I'm Dduo !
 
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Nodejs or Vue
+- 🔭 &nbsp;Got it, Anything exciting you're working on?
+- 💬 &nbsp;Ask me about anything related to Java or Vue
 
 
 <a href="https://github.com/Dddddduo"><img src="https://github-readme-stats.vercel.app/api?username=Dddddduo" alt="github stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dddddduo&hide_border=true" alt="top langs" style="height:195px;"></a>
@@ -29,6 +29,8 @@ Other                      3 hrs 43 mins   =========================   01.55 %
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 8+ years
+I'm Dduo , a student. Feel free to reach out if you'd like to chat or collaborate! 😊📚"
 
-Feel free to reach out to me for collaboration or just to say hi! 😊
+Don't hesitate to reach out if you'd like to collaborate or just chat! 😊"
+
+Let me know if you'd like to tweak it further!
