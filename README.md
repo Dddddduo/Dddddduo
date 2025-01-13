@@ -13,15 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 August 2024 - To: 12 January 2025
+From: 07 August 2024 - To: ...
 
-Total Time: 236 hrs 17 mins
+Total Time: ...
 
-TypeScript                 102 hrs 3 mins  >>>>>>>>>>>==============   42.52 %
-Vue.js                     88 hrs 27 mins  >>>>>>>>>================   36.85 %
-JavaScript                 7 hrs 55 mins   >========================   03.30 %
-Markdown                   4 hrs 35 mins   =========================   01.91 %
-Other                      3 hrs 43 mins   =========================   01.55 %
+- 🌟 Java
+- 🖥️ Vue.js
+- 🎉 Springboot
+- 🔧 Java Util Concurrent
+- 🧠 Markdown
+- Other                   
 ```
 
 <!--END_SECTION:waka-->
@@ -29,8 +30,5 @@ Other                      3 hrs 43 mins   =========================   01.55 %
 
 ### ✨&nbsp; About Me
 
-I'm Dduo , a student. Feel free to reach out if you'd like to chat or collaborate! 😊📚"
-
-Don't hesitate to reach out if you'd like to collaborate or just chat! 😊"
-
-Let me know if you'd like to tweak it further!
+- 📚 I'm Dduo, a student. Feel free to reach out if you'd like to chat or collaborate! 😊
+- 💬 Don't hesitate to reach out if you'd like to collaborate or just chat! 😊
