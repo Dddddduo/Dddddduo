@@ -1,12 +1,11 @@
 # 👋 Hi bro , I'm Dduo , a programmer from China !
 
-# 👋 Hi bro , I'm Dduo , a programmer from China !
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Nodejs or Vue
 
 
-<a href="https://github.com/Dddddduo"><img src="https://github-readme-stats.vercel.app/api?username=EricWXY" alt="github stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericwxy&hide_border=true" alt="top langs" style="height:195px;"></a>
+<a href="https://github.com/Dddddduo"><img src="https://github-readme-stats.vercel.app/api?username=Dddddduo" alt="github stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericwxy&hide_border=true" alt="top langs" style="height:195px;"></a>
 
 
 📊 **Development breakdown**
