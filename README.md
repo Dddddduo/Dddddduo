@@ -1,4 +1,4 @@
-# 👋 Hi bro , I'm Dduo !
+# 👋 Hi bro , I'm Dduo ! Glad to meet you 😁😍😜
 
 
 - 🔭 &nbsp;Got it, Anything exciting you're working on?
