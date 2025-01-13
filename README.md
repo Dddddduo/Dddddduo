@@ -5,7 +5,7 @@
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Nodejs or Vue
 
 
-<a href="https://github.com/Dddddduo"><img src="https://github-readme-stats.vercel.app/api?username=Dddddduo" alt="github stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericwxy&hide_border=true" alt="top langs" style="height:195px;"></a>
+<a href="https://github.com/Dddddduo"><img src="https://github-readme-stats.vercel.app/api?username=Dddddduo" alt="github stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dddddduo&hide_border=true" alt="top langs" style="height:195px;"></a>
 
 
 📊 **Development breakdown**
