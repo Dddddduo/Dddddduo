@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 August 2024 - To: ...
-
-Total Time: ...
-
-- 🌟 Java
-- 🖥️ Vue.js
-- 🎉 Springboot
-- 🔧 Java Util Concurrent
-- 🧠 Markdown
-- Other                   
+| Cute putty Dduo| 狗屋地址 |
+| :----:| :----: |
+| 个人主页 | [[Dduo的主页](https://gczdy.cn/)]([https://www.javadog.net](https://gczdy.cn/)) | 
+| 公众号 | [Dduo的home](https://mp.weixin.qq.com/s/gh_e313e351eb57) | 
+| CSDN  | [gczdy.blog.csdn.net](gczdy.blog.csdn.net) | 
+| 稀土掘金论坛 juejin | [https://juejin.cn/user/358894146686756](https://juejin.cn/user/358894146686756)|
+| 抖音  Tik Tok | [ 0X0011ZDY ]
+| 推特 X | [Ddddddddduo](https://x.com/Ddddddddduo)| 
+| Gitee |[https://gitee.com/zhu-daoyang](https://gitee.com/zhu-daoyang)  | 
+| GitHub |[https://github.com/Dddddduo](https://github.com/Dddddduo)|           
 ```
 
 <!--END_SECTION:waka-->
