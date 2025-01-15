@@ -27,6 +27,6 @@
 | Codeforces 📝 | 👉 [Dduo](https://codeforces.com/profile/Dduo)  😴  | 
 | Gitee 📂 | 👉 [https://gitee.com/zhu-daoyang](https://gitee.com/zhu-daoyang)  😆  | 
 | GitLab 🌐 | 👉 [https://github.com/Dddddduo](https://github.com/Dddddduo)  😍  |         
-| GitHub 🖥️ | 👉 [https://gitlub.com/Dddddduo](https://gitlab.com/Dddddduo)  😢  |           
+| GitHub 🖥️ | 👉 [https://gitlab.com/Dddddduo](https://gitlab.com/Dddddduo)  😢  |           
 
 <!--END_SECTION:waka-->
