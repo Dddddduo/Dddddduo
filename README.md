@@ -12,7 +12,6 @@
 
 <!--START_SECTION:waka-->
 
-```rust
 | Cute putty Dduo| 狗屋地址 |
 | :----:| :----: |
 | 个人主页 | [[Dduo的主页](https://gczdy.cn/)]([https://www.javadog.net](https://gczdy.cn/)) | 
@@ -23,7 +22,6 @@
 | 推特 X | [Ddddddddduo](https://x.com/Ddddddddduo)| 
 | Gitee |[https://gitee.com/zhu-daoyang](https://gitee.com/zhu-daoyang)  | 
 | GitHub |[https://github.com/Dddddduo](https://github.com/Dddddduo)|           
-```
 
 <!--END_SECTION:waka-->
 
