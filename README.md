@@ -17,10 +17,10 @@
 | 公众号 📱| 🔍 Dduo的home 😎| 
 | 抖音 🎵| 🔍 0X0011ZDY 😜| 
 | 语雀 🎉 | 👉 [永恒水手月亮](https://www.yuque.com/yonghengshuishouyueliang)  😱 | 
+| 稀土掘金论坛 💎 | 👉 [宇宙无敌大帅哥多多](https://juejin.cn/user/358894146686756) 🤗 |
 | CSDN 📚 | 👉 [gczdy.blog.csdn.net](gczdy.blog.csdn.net)  🤔  | 
-| 稀土掘金论坛 💎 | 👉 [宇宙无敌超人](https://juejin.cn/user/358894146686756) 🤗 |
 | 推特 🐦 | 👉 [Ddddddddduo](https://x.com/Ddddddddduo)  🥺  | 
-| 牛客 nowcoder 📊 | 👉 [犯困小狗多多](https://www.nowcoder.com/)  🥳  |  
+| 牛客 nowcoder 📊 | 👉 [犯困小狗多多](https://www.nowcoder.com/users/619886673)  🥳  |  
 | Codeforce 📝 | 👉 [Dduo](https://codeforces.com/profile/Dduo)  😴  | 
 | Gitee 📂 | 👉 [https://gitee.com/zhu-daoyang](https://gitee.com/zhu-daoyang)  😆  | 
 | GitLab 🌐 | 👉 [https://github.com/Dddddduo](https://github.com/Dddddduo)  😍  |         
