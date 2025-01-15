@@ -12,19 +12,19 @@
 
 <!--START_SECTION:waka-->
 
-| Cute putty Dduo| 狗屋地址 |
 | :---------:| :--------: |
+| Cute putty Dduo| 狗屋地址 |
 | 个人主页🏠 | [Dduo的主页](https://gczdy.cn/) | 
 | 公众号 📱| 🔍 Dduo的home  | 
 | 抖音 🎵| 🔍 0X0011ZDY | 
-| CSDN 📚 | [gczdy.blog.csdn.net](gczdy.blog.csdn.net) | 
-| 稀土掘金论坛 💎 | [https://juejin.cn/user/358894146686756](https://juejin.cn/user/358894146686756)|
-| 推特 🐦 | [Ddddddddduo](https://x.com/Ddddddddduo)| 
-| 牛客 nowcoder 📊 | [犯困小狗多多](https://www.nowcoder.com/)| 
-| Codeforce 📝 | [Dduo](https://codeforces.com/profile/Dduo)| 
-| Gitee 📂 |[https://gitee.com/zhu-daoyang](https://gitee.com/zhu-daoyang)| 
-| GitLab 🌐 |[https://github.com/Dddddduo](https://github.com/Dddddduo)|         
-| GitHub 🖥️ |[[https://github.com/Dddddduo](https://gitlab.com/Dddddduo)|           
+| CSDN 📚 | 👉 [gczdy.blog.csdn.net](gczdy.blog.csdn.net) | 
+| 稀土掘金论坛 💎 | 👉 [宇宙无敌超人](https://juejin.cn/user/358894146686756)|
+| 推特 🐦 | 👉 [Ddddddddduo](https://x.com/Ddddddddduo)| 
+| 牛客 nowcoder 📊 | 👉 [犯困小狗多多](https://www.nowcoder.com/)| 
+| Codeforce 📝 | 👉 [Dduo](https://codeforces.com/profile/Dduo)| 
+| Gitee 📂 | 👉 [https://gitee.com/zhu-daoyang](https://gitee.com/zhu-daoyang)| 
+| GitLab 🌐 | 👉 [https://github.com/Dddddduo](https://github.com/Dddddduo)|         
+| GitHub 🖥️ | 👉 [https://github.com/Dddddduo](https://gitlab.com/Dddddduo)|           
 
 <!--END_SECTION:waka-->
 
