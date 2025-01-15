@@ -12,9 +12,9 @@
 
 <!--START_SECTION:waka-->
 
-| :---------:| :--------: |
 | Cute putty Dduo| 狗屋地址 |
-| 个人主页🏠 | [Dduo的主页](https://gczdy.cn/) | 
+| :---------:| :--------: |
+| 个人主页🏠 | 👉👉👉 [Dduo的主页] 😹😹😹 (https://gczdy.cn/) | 
 | 公众号 📱| 🔍 Dduo的home  | 
 | 抖音 🎵| 🔍 0X0011ZDY | 
 | CSDN 📚 | 👉 [gczdy.blog.csdn.net](gczdy.blog.csdn.net) | 
