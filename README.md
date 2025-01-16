@@ -19,7 +19,7 @@
 | 抖音 🎵| 🔍 0X0011ZDY 😜| 
 | 邮箱1 📩| 📤 1732446549@qq.com 🤩| 
 | 邮箱2 📧| 📤 judithdixon0091@gmail.com🤪| 
-| 语雀 🎉 | 👉 [永恒水手月亮](https://www.yuque.com/yonghengshuishouyueliang)  😱 | 
+| 语雀 🎉 | 👉 [地球超人多多](https://www.yuque.com/yonghengshuishouyueliang)  😱 | 
 | 稀土掘金论坛 💎 | 👉 [宇宙无敌大帅哥多多](https://juejin.cn/user/358894146686756) 🤗 |
 | CSDN 📚 | 👉 [gczdy.blog.csdn.net](https://gczdy.blog.csdn.net/)  🤔  | 
 | 推特 🐦 | 👉 [Ddddddddduo](https://x.com/Ddddddddduo)  🥺  | 
