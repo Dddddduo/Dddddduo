@@ -27,7 +27,7 @@
 | 牛客 nowcoder 📊 | 👉 [犯困小狗多多](https://www.nowcoder.com/users/619886673)  🥳  |  
 | Codeforces 📝 | 👉 [Dduo](https://codeforces.com/profile/Dduo)  😴  | 
 | Gitee 📂 | 👉 [https://gitee.com/zhu-daoyang](https://gitee.com/zhu-daoyang)  😆  | 
-| GitLab 🌐 | 👉 [https://github.com/Dddddduo](https://github.com/Dddddduo)  😍  |         
-| GitHub 🖥️ | 👉 [https://gitlab.com/Dddddduo](https://gitlab.com/Dddddduo)  😢  |           
+| GitLab 🌐 | 👉 [https://gitlab.com/Dddddduo](https://gitlab.com/Dddddduo)  😍  |         
+| GitHub 🖥️ | 👉 [https://github.com/Dddddduo](https://github.com/Dddddduo)  😢  |           
 
 <!--END_SECTION:waka-->
