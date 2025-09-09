@@ -1,8 +1,4 @@
-## 👋Ciallo～(∠・ω< )⌒☆​ ！！ 
-
-**This is the Dduo**   
-
-> 温柔半两,从容一生～
+## 👋 Hello, this is the Dduo ~
 
 ## 🔭 learning on
 
