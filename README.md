@@ -1,6 +1,4 @@
-## 👋 Hello, this is the Dduo ~
-
-## 🔭 learning on
+# 👋 Hello, this is the Dduo ~
 
 主要技术栈：
 <p>
