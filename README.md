@@ -28,5 +28,3 @@
   <img alt="Zookeeper" src="https://img.shields.io/badge/-Zookeeper-FFC107?style=flat-square&logo=apache-zookeeper&logoColor=black" />
 </p>
 <img align="right" style="float: right; width: 200px;margin: 0 0 20px 20px;border: 1px solid #d9d9d9;border-radius: 4px;" alt="coffee" src="./1.gif" />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dddddduo)](https://github.com/anuraghazra/github-readme-stats)
