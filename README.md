@@ -27,3 +27,5 @@
   <img alt="Sentinel" src="https://img.shields.io/badge/-Sentinel-FF4D4F?style=flat-square&logo=sentinel&logoColor=white" />
   <img alt="Zookeeper" src="https://img.shields.io/badge/-Zookeeper-FFC107?style=flat-square&logo=apache-zookeeper&logoColor=black" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dddddduo&show_icons=true&theme=radical" />
