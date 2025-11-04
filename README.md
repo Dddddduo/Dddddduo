@@ -1,4 +1,4 @@
-# 👋 Hello, this is the Dduo ~
+# 👋 Hello, this is the Dduo ~ Glad to meet you 😁
 
 主要技术栈：
 <p>
